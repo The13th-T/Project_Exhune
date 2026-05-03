@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class bounder : MonoBehaviour
+public class test : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -10,11 +10,6 @@ public class bounder : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
-        
-    }
-
-    private void OnCollisionStay(Collision collision)
     {
         
     }
